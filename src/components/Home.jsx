@@ -16,7 +16,7 @@ const Home = () => {
         <p className='text-[#000000] py-4 font-semibold cmax-w-[700px]'>
           I’m a full-stack developer specializing in building (and occasionally
           designing) exceptional digital experiences. Currently, I’m diving deep into web3 and blockchain development.
-          I also have knack for designing beautiful User Interfaces.
+          I also have a knack for designing beautiful User Interfaces.
         </p>
         <div>
           {/* <button className='text-[#F24A72] group font-semibold border-pink-600 border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600 hover:text-white'>
