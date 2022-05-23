@@ -1,6 +1,6 @@
 import React from 'react'
 import { FiLinkedin } from"react-icons/fi";
-import {FaGithub} from "react-icons/Fa"
+import {FaGithub} from "react-icons/fa"
 import {HiOutlineMail} from "react-icons/hi"
 const Footer = () => {
   return (
